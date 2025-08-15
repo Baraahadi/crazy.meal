@@ -44,3 +44,6 @@ This process took approximately **Two days**, as I wanted to ensure a thorough u
 ## ⚠️ Challenges / Difficult Parts
 
 - 🖼️ **Handling Images:** Reading the uploaded image and saving it to `localStorage` correctly was a bit challenging.  
+
+---
+[[Pull request link](https://github.com/Baraahadi/crazy-meal/pull/2)]
