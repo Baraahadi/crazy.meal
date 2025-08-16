@@ -1,4 +1,4 @@
-# 🍔 Crazy Meal Website [[Crazy Meal](https://baraahadi.github.io/crazy-meal/)]
+# 🍔 Crazy Meal Website [[Crazy Meal Live](https://baraahadi.github.io/crazy.meal/)]
 
 ## 📌 Project Description
 
